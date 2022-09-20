@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ef4ccf0-b20b-475d-abe3-6877627388f0" name="Changes" comment="Ember osztaly&#10;-adattagok felvétele&#10;-paraméteres ctor&#10;-toString&#10;&#10;Main&#10;-ember felvétele es kiiratasa">
+    <list default="true" id="2ef4ccf0-b20b-475d-abe3-6877627388f0" name="Changes" comment="Ember osztaly&#10;-ToString formázása&#10;&#10;Main&#10;-3 ember kiiratása">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/hu/petrik/embrerekoop/Ember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/embrerekoop/Ember.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/hu/petrik/embrerekoop/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/petrik/embrerekoop/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663674217744</updated>
-      <workItem from="1663674219030" duration="1420000" />
+      <workItem from="1663674219030" duration="2631000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1663674379982</created>
@@ -66,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663675052400</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ember osztaly&#10;-ToString formázása&#10;&#10;Main&#10;-3 ember kiiratása">
+      <created>1663675705149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663675705149</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +92,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Ember osztaly&#10;-adattagok felvétele&#10;-paraméteres ctor&#10;-toString&#10;&#10;Main&#10;-ember felvétele es kiiratasa" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ember osztaly&#10;-adattagok felvétele&#10;-paraméteres ctor&#10;-toString&#10;&#10;Main&#10;-ember felvétele es kiiratasa" />
+    <MESSAGE value="Ember osztaly&#10;-ToString formázása&#10;&#10;Main&#10;-3 ember kiiratása" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ember osztaly&#10;-ToString formázása&#10;&#10;Main&#10;-3 ember kiiratása" />
   </component>
 </project>
