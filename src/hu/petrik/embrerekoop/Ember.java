@@ -13,10 +13,6 @@ public class Ember {
 
     @Override
     public String toString() {
-        return "Ember{" +
-                "nev='" + nev + '\'' +
-                ", SzulDatum='" + SzulDatum + '\'' +
-                ", SzulHely='" + SzulHely + '\'' +
-                '}';
+        return String.format("%-30s %10s %20s",this.nev,this.SzulDatum,this.SzulHely);
     }
 }
