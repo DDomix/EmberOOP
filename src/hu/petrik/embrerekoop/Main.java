@@ -2,6 +2,7 @@ package hu.petrik.embrerekoop;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Ember human=new Ember("Fasz Geci","2003-04-20", "Budapest");
+        System.out.println(human);
     }
 }
